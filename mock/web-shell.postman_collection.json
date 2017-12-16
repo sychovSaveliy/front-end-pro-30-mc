@@ -1,0 +1,22 @@
+{
+	"variables": [],
+	"info": {
+		"name": "web-shell",
+		"_postman_id": "316cd1f5-3ba8-f0cc-1c74-8c0a5414f742",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "/menu",
+			"request": {
+				"url": "http://localhost:5000/menu",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}

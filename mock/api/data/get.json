@@ -1,0 +1,41 @@
+{
+  "boards": [
+    {
+      "id": "001",
+      "type": "board",
+      "title": "To do",
+      "info": {},
+      "tasks": [
+        {
+          "id": "001001",
+          "type": "task",
+          "title": "T-01",
+          "dragable": true,
+          "desc": "hello, its description",
+          "info": {
+            "author": "SSP",
+            "history": []
+          }
+        },
+        {
+          "id": "001002",
+          "type": "task",
+          "title": "T-02",
+          "dragable": false,
+          "desc": "hello 2, its description 2",
+          "info": {
+            "author": "SSP",
+            "history": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "002",
+      "type": "board",
+      "title": "In progress",
+      "info": {},
+      "tasks": []
+    }
+  ]
+}

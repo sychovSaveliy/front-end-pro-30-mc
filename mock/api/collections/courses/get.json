@@ -1,0 +1,32 @@
+{
+    "data": {
+        "list": [
+            {
+                "id": 1,
+                "type": "course",
+                "title": "Javascript Essential",
+                "description": "Курс для начинающий ...",
+                "keywords": "",
+                "links": {
+                    "google": "",
+                    "docs": ""
+                }
+            },
+            {
+                "id": 2,
+                "type": "course",
+                "title": "Javascript Advanced",
+                "description": "Курс для продвинутых ...",
+                "keywords": "",
+                "links": {
+                    "google": "",
+                    "docs": ""
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "links": {},
+        "language": "en"
+    }
+}
